@@ -1,37 +1,37 @@
 <?php
 
 return [
-    'settings' => 'Settings',
+    'settings' => 'Pengaturan',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
+        'title' => 'Detail SFTP',
+        'server-address' => 'Alamat Server',
         'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'description' => 'Password SFTP Anda sama dengan password yang Anda gunakan untuk mengakses panel ini.',
+        'launch-sftp' => 'Mulai SFTP',
     ],
 
     'rename' => [
-        'title' => 'Change Server Details',
-        'server-name' => 'Server Name',
-        'server-description' => 'Server Description',
-        'save' => 'Save',
+        'title' => 'Ubah Detail Server',
+        'server-name' => 'Nama Server',
+        'server-description' => 'Deskripsi Server',
+        'save' => 'Simpan',
     ],
 
     'debug' => [
-        'title' => 'Debug Information',
+        'title' => 'Informasi Debug',
         'node' => 'Node',
-        'server-id' => 'Server ID',
+        'server-id' => 'ID Server',
     ],
 
     'reinstall' => [
-        'title' => 'Reinstall Server',
-        'reinstall-started' => 'Your server has begun the reinstallation process.',
-        'confirm-reinstallation' => 'Confirm server reinstallation',
-        'yes-reinstall' => 'Yes, reinstall server',
-        'are-you-sure' => 'Your server will be stopped and some files may be deleted or modified during this process, are you sure you wish to continue?',
-        'desc-1' => 'Reinstalling your server will stop it, and then re-run the installation script that initially set it up.',
-        'desc-2' => 'Some files may be deleted or modified during this process, please back up your data before continuing.',
-        'reinstall-server' => 'Reinstall Server',
+        'title' => 'Pasang Ulang Server',
+        'reinstall-started' => 'Server Anda telah memulai proses pemasangan ulang.',
+        'confirm-reinstallation' => 'Konfirmasi pemasangan ulang server',
+        'yes-reinstall' => 'Ya, pasang ulang server',
+        'are-you-sure' => 'Server Anda akan dihentikan dan beberapa file mungkin dihapus atau diubah selama proses ini, apakah Anda yakin ingin melanjutkan?',
+        'desc-1' => 'Pemasangan ulang server akan menghentikannya, dan kemudian menjalankan kembali skrip instalasi yang awalnya mengaturnya.',
+        'desc-2' => 'Beberapa file mungkin dihapus atau diubah selama proses ini, harap cadangkan data Anda sebelum melanjutkan.',
+        'reinstall-server' => 'Pasang Ulang Server',
     ],
 ];
