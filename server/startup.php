@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'startup-settings' => 'Startup Settings',
-    'startup-command' => 'Startup Command',
-    'docker-image' => 'Docker Image',
-    'read-only' => 'Read Only',
-    'select-docker-feature' => 'This is an advanced feature allowing you to select a Docker image to use when running this server instance.',
-    'custom-docker-image' => 'This {"server\'s"} Docker image has been manually set by an administrator and cannot be changed through this UI.',
-    'variables' => 'Variables'
+    'startup-settings' => 'Pengaturan Startup',
+    'startup-command' => 'Perintah Startup',
+    'docker-image' => 'Gambar Docker',
+    'read-only' => 'Hanya Baca',
+    'select-docker-feature' => 'Ini adalah fitur lanjutan yang memungkinkan Anda memilih gambar Docker yang akan digunakan saat menjalankan instansi server ini.',
+    'custom-docker-image' => 'Gambar Docker server ini telah diatur secara manual oleh administrator dan tidak dapat diubah melalui antarmuka pengguna ini.',
+    'variables' => 'Variabel'
 ];
