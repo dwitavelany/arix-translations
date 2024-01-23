@@ -1,32 +1,32 @@
 <?php
 
 return [
-    'title' => 'Users',
-    'manage-subusers' => 'Manage subusers',
-    'new-user' => 'New user',
+    'title' => 'Pengguna',
+    'manage-subusers' => 'Kelola subpengguna',
+    'new-user' => 'Pengguna baru',
 
-    'no-users' => 'It looks like you don\'t have any subusers.',
+    'no-users' => 'Sepertinya Anda tidak memiliki subpengguna.',
 
-    'name' => 'Name',
+    'name' => 'Nama',
     'email' => 'Email',
-    '2FA-enabled' => '2FA Enabled',
-    'creation-date' => 'Creation date',
-    'modify-permissions' => 'Modify permissions',
+    '2FA-enabled' => '2FA Diaktifkan',
+    'creation-date' => 'Tanggal pembuatan',
+    'modify-permissions' => 'Ubah izin',
 
-    'user-email' => 'User Email',
-    'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
+    'user-email' => 'Email Pengguna',
+    'user-email-description' => 'Masukkan alamat email pengguna yang ingin Anda undang sebagai subpengguna untuk server ini.',
 
-    'modify-permissions-for' => 'Modify permissions for',
-    'view-permissions-for' => 'View permissions for',
-    'create-new-subuser' => 'Create new subuser',
-    'must-not-exceed' => 'Email addresses must not exceed 191 characters.',
-    'valid-email' => 'A valid email address must be provided.',
-    'save' => 'Save',
-    'invite-user' => 'Invite User',
+    'modify-permissions-for' => 'Ubah izin untuk',
+    'view-permissions-for' => 'Lihat izin untuk',
+    'create-new-subuser' => 'Buat subpengguna baru',
+    'must-not-exceed' => 'Alamat email tidak boleh melebihi 191 karakter.',
+    'valid-email' => 'Harus disediakan alamat email yang valid.',
+    'save' => 'Simpan',
+    'invite-user' => 'Undang Pengguna',
 
-    'only-permissions-you-assigned' => 'Only permissions which your account is currently assigned may be selected when creating or modifying other users.',
+    'only-permissions-you-assigned' => 'Hanya izin yang saat ini ditugaskan ke akun Anda yang dapat dipilih saat membuat atau mengubah pengguna lain.',
 
-    'delete-this-subuser' => 'Delete this subuser?',
-    'yes-remove' => 'Yes, remove subuser',
-    'are-you-sure-to-remove' => 'Are you sure you wish to remove this subuser? They will have all access to this server revoked immediately.'
+    'delete-this-subuser' => 'Hapus subpengguna ini?',
+    'yes-remove' => 'Ya, hapus subpengguna',
+    'are-you-sure-to-remove' => 'Apakah Anda yakin ingin menghapus subpengguna ini? Mereka akan segera kehilangan semua akses ke server ini.'
 ];
