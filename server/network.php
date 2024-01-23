@@ -1,18 +1,18 @@
 <?php
 
-return[
-    'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+return [
+    'network' => 'Jaringan',
+    'manage-allocation' => 'Kelola alokasi',
+    'create-allocation' => 'Buat Alokasi',
+    'currently-using' => 'Anda saat ini menggunakan {{current}} dari {{max}} alokasi yang diizinkan untuk server ini.',
 
     'IP' => 'IP',
     'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'notes' => 'Catatan',
+    'primary' => 'Utama',
+    'make-primary' => 'Jadikan Utama',
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'Hapus Alokasi',
+    'remove-allocation-description' => 'Alokasi ini akan segera dihapus dari server Anda.',
+    'delete' => 'Hapus'
 ];
