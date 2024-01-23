@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'account-activity-log' => 'Account Activity Log',
-    'activity-log' => 'Activity Log',
-    'clear-filters' => 'Clear Filters',
+    'account-activity-log' => 'Log Aktivitas Akun',
+    'activity-log' => 'Log Aktivitas',
+    'clear-filters' => 'Hapus Filter',
     'metadata' => 'Metadata',
-    'close' => 'Close',
-    'no-logs-server' => 'No activity logs available for this server.'
+    'close' => 'Tutup',
+    'no-logs-server' => 'Tidak ada log aktivitas yang tersedia untuk server ini.'
 ];
