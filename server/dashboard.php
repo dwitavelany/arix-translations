@@ -1,22 +1,22 @@
 <?php
 
 return [
-    'dashboard' => 'Dashboard',
+    'dashboard' => 'Dasbor',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
+        'title' => 'Detail SFTP',
+        'server-address' => 'Alamat Server',
         'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'description' => 'Password SFTP Anda sama dengan password yang Anda gunakan untuk mengakses panel ini.',
+        'launch-sftp' => 'Mulai SFTP',
     ],
     'server-info' => [
-        'title' => 'Server Info',
+        'title' => 'Info Server',
         'hostname' => 'Hostname',
-        'node-id' => 'Node ID',
-        'server-id' => 'Server ID',
+        'node-id' => 'ID Node',
+        'server-id' => 'ID Server',
         
-        'uptime' => 'Uptime',
-        'server-ip' => 'Server IP',
+        'uptime' => 'Waktu Aktif',
+        'server-ip' => 'IP Server',
     ],
 ];
